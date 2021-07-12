@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e9qqf83Ssuto53Stg8sQ8k1CHqhl3J5kACvW8fpQmPINg+IHjcj1hsyADGMRePoRcuuonRCgKhCZ8kpY9BvEmA==",
+  "success": true,
+  "projectFilePath": "/Users/frantisekmoucha/C#/WebScraper/WebScraper.csproj",
+  "expectedPackageFiles": [
+    "/Users/frantisekmoucha/.nuget/packages/csvhelper/27.1.1/csvhelper.27.1.1.nupkg.sha512",
+    "/Users/frantisekmoucha/.nuget/packages/htmlagilitypack/1.11.34/htmlagilitypack.1.11.34.nupkg.sha512"
+  ],
+  "logs": []
+}
