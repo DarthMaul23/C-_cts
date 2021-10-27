@@ -1,0 +1,11 @@
+ umíš věci dotáhnout do konce? Baví Tě nalézat jádro problému a láká Tě poznat, jak funguje burzovní svět? Nebo si chceš prohloubit své znalosti a hledáš zajímavé projekt?
+Na co se můžeš těšit?
+Čeká tě účast na aktuálně vznikajícím projektu. Vyvíjíme software v&nbsp;oblasti obchodování energií, obchodu se zahraničními měnami, úrokových měr a dluhopisů pro nového klienta, který je středoevropským leaderem v&nbsp;této oblasti. Tvou úlohou bude získat detailní vhled do daného businessu tak, abys mohl/a efektivně spolupracovat na testování tohoto systému.
+Především se pak budeš věnovat:
+
+analýze podkladů pro testování
+definici test cases a přípravě test skriptů (pro manuální testování)
+provádění testů a retestů chyb
+úpravách specifikací/uživatelské příručky
+provádění a úpravě regresních testů
+analýze chyb od klientů a komunikovat s uživateli našeho SW

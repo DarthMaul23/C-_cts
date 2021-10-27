@@ -1,0 +1,7 @@
+
+Staneš se součástí rychle rostoucího DevOps týmu, který získává stále více kompetencí v&nbsp;oblasti naší vývojové infrastruktury a automatizace vývojových procesů. Na starosti budeš mít především:
+
+Automatizaci interních vývojových procesů
+Dohled a rozvoj naší CI\CD pipeline na TeamCity
+Správu, deployment a provoz našich testovacích prostředí a automatizaci těchto činností
+First-level support při řešení problémů v&nbsp;našich testovacích prostředích

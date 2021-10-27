@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e9qqf83Ssuto53Stg8sQ8k1CHqhl3J5kACvW8fpQmPINg+IHjcj1hsyADGMRePoRcuuonRCgKhCZ8kpY9BvEmA==",
+  "dgSpecHash": "eYnClWdlOc7X6Gx4KwWyTFFOkth/GW8ZWPF+emLl9+/oRYJfePO9HLEc1xyoqx8DWq1XFmlaQ5Zj1Y61uQIw0w==",
   "success": true,
-  "projectFilePath": "/Users/frantisekmoucha/C#/WebScraper/WebScraper.csproj",
+  "projectFilePath": "/Users/frantisekmoucha/Documents/C#/Personal/C-_cts/WebScraper.csproj",
   "expectedPackageFiles": [
     "/Users/frantisekmoucha/.nuget/packages/csvhelper/27.1.1/csvhelper.27.1.1.nupkg.sha512",
     "/Users/frantisekmoucha/.nuget/packages/htmlagilitypack/1.11.34/htmlagilitypack.1.11.34.nupkg.sha512"

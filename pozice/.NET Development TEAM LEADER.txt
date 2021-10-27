@@ -1,0 +1,6 @@
+?
+
+Spolupráce na vývoji SW produktu pro největší banky v ČR a na Slovensku, který se používá pro investiční bankovnictví (např. obchodování akcií, investice do fondů, sledování klientského portfolia)
+Vedení týmu 5 .NET Developerů - organizace týmu, směřování rozvoje jednotlivých členů a jejich hodnocení
+Pracovat budeš např. těmito technologiemi .NET, .NET Core, ASP.NET, C#, WinForms, MS SQL
+Budeš pracovat se zkušenými specialisty ve vývoji aplikací v oblasti investičního bankovnictví a čeká Tě tak spolupráce s dalšími vývojovými týmy, testery i analytiky

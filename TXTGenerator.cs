@@ -9,12 +9,21 @@ namespace WebScraper
     {
 
         private List<URL> list;
+        private string Directory = "pozice/";
 
         public TXTGenerator(List<URL> list)
         {
 
             this.list = list;
+            createDirectory();
 
+        }
+        
+        private void createDirectory(){
+
+            if(!System.IO.Directory.Exists(Directory)){
+                System.IO.Directory.CreateDirectory(Directory);
+            }
         }
 
         public void generateTXTFiles()
@@ -25,9 +34,11 @@ namespace WebScraper
 
                 string fileName = url.getPosition().Trim().Replace("/", "-") + ".txt";
 
-                StreamWriter sw = new StreamWriter(fileName);
+                StreamWriter sw = new StreamWriter(Directory+fileName);
                 sw.Write(url.getContent());
                 sw.Close();
+
+                Console.WriteLine("[Task_"+list.IndexOf(url)+"] Writing file: " + Directory+fileName + "[COMPLETED]");
 
             }
 

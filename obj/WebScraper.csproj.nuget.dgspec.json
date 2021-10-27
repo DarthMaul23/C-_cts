@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/frantisekmoucha/C#/WebScraper/WebScraper.csproj": {}
+    "/Users/frantisekmoucha/Documents/C#/Personal/C-_cts/WebScraper.csproj": {}
   },
   "projects": {
-    "/Users/frantisekmoucha/C#/WebScraper/WebScraper.csproj": {
+    "/Users/frantisekmoucha/Documents/C#/Personal/C-_cts/WebScraper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/frantisekmoucha/C#/WebScraper/WebScraper.csproj",
+        "projectUniqueName": "/Users/frantisekmoucha/Documents/C#/Personal/C-_cts/WebScraper.csproj",
         "projectName": "WebScraper",
-        "projectPath": "/Users/frantisekmoucha/C#/WebScraper/WebScraper.csproj",
+        "projectPath": "/Users/frantisekmoucha/Documents/C#/Personal/C-_cts/WebScraper.csproj",
         "packagesPath": "/Users/frantisekmoucha/.nuget/packages/",
-        "outputPath": "/Users/frantisekmoucha/C#/WebScraper/obj/",
+        "outputPath": "/Users/frantisekmoucha/Documents/C#/Personal/C-_cts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/frantisekmoucha/.nuget/NuGet/NuGet.Config"
@@ -62,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100-preview.6.21355.2/RuntimeIdentifierGraph.json"
         }
       }
     }
